@@ -22,5 +22,5 @@ AGENT_AVATAR_PATH = "avatar-ai.jpg"
 # 思考相关配置（测试模式直接用这里的值；
 # 开发模式中作为默认值）
 THINKING_ENABLED = True      # 是否显示“thinking”
-THINKING_TIME = 5         # 实际思考时间（秒）
+THINKING_TIME = 10         # 实际思考时间（秒）
 DISPLAY_TIME = 10     # 显示的思考时间（秒）
